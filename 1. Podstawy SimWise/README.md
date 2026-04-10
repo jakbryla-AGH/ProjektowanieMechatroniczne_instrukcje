@@ -3,7 +3,7 @@ Instrukcja do pierwszych zajęć stanowi wprowadzenie do nauki obsługi programu
 </br>
 <h2>Materiały</h2>
 <li><a href="https://github.com/jakbryla-AGH/ProjektowanieMechatroniczne_instrukcje/blob/main/1.%20Podstawy%20SimWise/%5BProjMech_SimWise%5D%201.%20Podstawy%20SimWise.pdf">Instrukcja</a></li>
-<li><a href="https://github.com/jakbryla-AGH/ProjektowanieMechatroniczne_instrukcje/tree/main/1.%20Podstawy%20SimWise/CAD">Pliki CAD</a></li>
+<li><a href="https://github.com/jakbryla-AGH/ProjektowanieMechatroniczne_instrukcje/tree/main/1.%20Podstawy%20SimWise/CAD](https://github.com/jakbryla-AGH/ProjektowanieMechatroniczne_instrukcje/blob/main/1.%20Podstawy%20SimWise/CAD.zip">Pliki CAD</a></li>
 </br>
 <h2>Oczekiwany rezultat</h2>
 
